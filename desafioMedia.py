@@ -8,8 +8,8 @@ nota4 = float(input("4º nota:"))
 media = (nota1 + nota2 + nota3 + nota4)/4
 
 if media < 5:
-    print("Sua média é de: {} e você está reprovado" .format(media))
+    print("Sua média é de: {}, você está reprovado" .format(media))
 else:
-    print("Sua média é de: {} e você está aprovado" .format(media))
+    print("Sua média é de: {}, você está aprovado" .format(media))
 
 

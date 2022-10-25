@@ -4,4 +4,4 @@ metros = int(input("Quantos metros?"))
 
 cm = metros * 1000
 
-print(cm)
+print("{} metros são {} centímetros" .format(metros, cm))

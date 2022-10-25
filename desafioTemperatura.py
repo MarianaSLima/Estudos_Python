@@ -4,4 +4,4 @@ farenheit = float(input("Quantos graus F?"))
 
 celcius = 5 * ((farenheit-32)/9)
 
-print("São {} Celcius" .format(celcius))
+print("{}° Farenheit São {}° Celcius" .format(farenheit, celcius))

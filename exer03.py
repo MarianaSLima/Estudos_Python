@@ -6,6 +6,7 @@ num2 = input("Qual o segundo número?")
 soma = num1 + num2
 #nesse caso por ter juntado automaticamente o resultado vai dar 55, pois quando a soma foi feita os dois números eram STRINGS e não INTEIROS
 print("A soma entre {} e {} é igual {}" .format(num1, num2, soma))
+#Para colocar variaveis no meio de um texto basta colocar chaves no lugar e depois colocar o ".format" no final
 
 print(type(num1))
 print(type(num2))

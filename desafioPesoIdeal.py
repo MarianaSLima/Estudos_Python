@@ -9,4 +9,4 @@ if sexo == 1:
 else:
     peso = (72.7 * altura) - 58
 
-print("Seu peso ideal é de: {}" .format(peso))
+print("O seu peso ideal é de: {}" .format(peso))
